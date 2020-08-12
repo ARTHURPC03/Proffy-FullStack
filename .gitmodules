@@ -1,0 +1,9 @@
+[submodule "Proffy-API"]
+	path = Proffy-API
+	url = https://github.com/ARTHURPC03/Proffy-API
+[submodule "Proffy"]
+	path = Proffy
+	url = https://github.com/ARTHURPC03/Proffy
+[submodule "Proffy-Mobile"]
+	path = Proffy-Mobile
+	url = https://github.com/ARTHURPC03/Proffy-Mobile
