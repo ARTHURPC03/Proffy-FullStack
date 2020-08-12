@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Proffy Mobile com Theme Switcher</h1>
+<h1 style="text-align: center; font-weight: bold;">Proffy Full Stack com Theme Switcher</h1>
 
 ## Demo 📸
 
@@ -28,8 +28,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+- [Styled-components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+- [React Switch](https://www.npmjs.com/package/react-switch)
+- [React-navigation](https://reactnavigation.org/)
 - [Sqlite](https://www.sqlite.org/index.html)
 - [Knex](http://knexjs.org/)
 - [Express](https://expressjs.com/)
